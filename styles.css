@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+* {
+  font-size: 1.5rem;
+}
+
+ul {
+  list-style-type: decimal;
+}
+
+#to-do-list > div {
+  display: flex;
+  justify-content: center;
+}
